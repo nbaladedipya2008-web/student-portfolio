@@ -14,6 +14,7 @@ for subject in subjects:
     m1 = float(input("Exam 1 marks: "))
     m2 = float(input("Exam 2 marks: "))
     m3 = float(input("Exam 3 marks: "))
+    
 
     exam1.append(m1)
     exam2.append(m2)
